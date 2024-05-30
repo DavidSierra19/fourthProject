@@ -1,19 +1,7 @@
-"use strict"
-//Se asigna lo traido de modulo de express
-const express = require("express");
-// 
-const servidor = express();
-
-/* servidor.get("/xxx", (solicitud, respuesta)=>{
-    respuesta.redirect(301, "https://bit.institute/");
-    }) */
-
-//servidor.get
-servidor.get("/", (solicitud, respuesta)=>{
-    respuesta.json({
-        saludo: "hola"
-    })
+import "./conexionBD.js"
+//Importo el servidor de express
+import servidor from "./servidor.js"
+//ENCIENDO EL SERVIDOR Y LO PONGO A EJCUTAR 
+servidor.listen(3000, ()=>{
+    console.log("Servidor corriendo en el puerto 3000")
 });
-
-servidor.listen(3000);
-console.log("Servidor corriendo en el puerto 3000");
