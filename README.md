@@ -1,9 +1,17 @@
-# Mi primera pagina Web
+# Proyecto Base de datos de perfumes
 
 ---
 
-Hola este es un proyecto realizado por David Sierra donde habla un poco de el y su mascota
+## Descripcion del proyecto
 
 ---
 
-### Autor: David Sierra : copyright 2024, todos los derechos reservados
+## Lista de procedimiento
+
+---
+
+## Instrucciones de Uso
+
+---
+
+### Desarrollardor: David Andrey Sierra Moreno: copyright 2024, todos los derechos reservados
