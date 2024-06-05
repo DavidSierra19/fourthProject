@@ -5,7 +5,7 @@
 ### Descripcion del proyecto
 Este proyecto backend facilita la gestión de una colección de perfumes, permitiendo a los usuarios:
 
-Almacenar información detallada sobre cada perfume, incluyendo notas olfativas, puntajes y saber si ya se tiene. Visualizar y filtrar la colección de perfumes por diversos criterios. Llevar un registro preciso del inventario de perfumes, identificando fácilmente aquellos que se tienen y los que no.
+Almacenar información detallada sobre cada perfume, incluyendo notas olfativas, puntajes y saber si ya se tiene. Visualizar la colección de perfumes por diversos criterios. Llevar un registro preciso del inventario de perfumes, identificando fácilmente aquellos que se tienen y los que no.
 
 ---
 
